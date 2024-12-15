@@ -1,0 +1,22 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"testando...\"",
+    "build": "echo \"Testando a build...\"",
+    "deploy": "echo \"Testando o deploy em um ambiente nuvem...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisz-source/ci-simples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisz-source/ci-simples/issues"
+  },
+  "homepage": "https://github.com/crisz-source/ci-simples#readme"
+}
